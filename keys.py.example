@@ -1,0 +1,3 @@
+HTTP_ENDPOINT = 'https://api.datadoghq.com/api/v1/logs/config/pipelines'
+EU_ENDPOINT = 'https://api.datadoghq.eu/api/v1/logs/config/pipelines'
+AZURE_ENDPOINT = 'https://api.us3.datadoghq.com/api/v1/logs/config/pipelines'
